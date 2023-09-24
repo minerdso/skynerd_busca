@@ -15,8 +15,8 @@ from PIL import Image
 from telebot import types
 
 
-#bot = telebot.TeleBot("5662493800:AAFcb6TPuFzchIU9TcQZ9uFR6LpvPSOCUHY")
-bot = telebot.TeleBot("5998015531:AAH4kq0MgDGh1uszGam264EhNeN9W-OwmsQ")
+#bot = telebot.TeleBot("5662493800:")
+bot = telebot.TeleBot("5998015531:-OwmsQ")
 
 ARQUIVO_JSON = 'grupos.json'
 
