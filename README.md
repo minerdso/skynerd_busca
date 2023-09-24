@@ -18,7 +18,7 @@ Siga estas etapas para instalar e configurar o bot em seu próprio ambiente:
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/seu_nome_de_usuário/seu_repositório.git
+   git clone (https://github.com/minerdso/skynerd_busca)
    ```
 
 2. Acesse a pasta do projeto:
