@@ -64,5 +64,6 @@ Contribuições para este projeto são bem-vindas. Sinta-se à vontade para abri
 
 ## Licença
 
-Este projeto é licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-`
+Este projeto é destinado a fins educacionais. Esperamos que você aproveite o aprendizado e continue compartilhando seu conhecimento com a comunidade. Lembre-se de que só mantemos o que temos compartilhando o que aprendemos.
+
+Bons estudos!
